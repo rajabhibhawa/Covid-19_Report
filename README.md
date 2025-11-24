@@ -6,4 +6,4 @@ A situasional report around the world when the COVID-19 virus began to spreading
 2. And then i used Tableau Public to bring my visualisation life.
 
 # Conclusion
-With this <a href="https://github.com/rajabhibhawa/Covid-19_Report/blob/main/Covid19_Visual.png">Visualisation</a>, we can interpret that the world was declining birth and non stable eoomony, the Virus itself seems to growth more in the East rather than in Asia.
+With this <a href="https://github.com/rajabhibhawa/Covid-19_Report/blob/main/Covid19_Visual.png">Visualisation</a>, we can interpret that the world was declining birth and non stable ecomony, the Virus itself seems to growth more in the East rather than in Asia.
